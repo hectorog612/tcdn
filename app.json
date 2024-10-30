@@ -13,22 +13,22 @@
     "env": {
         "API_ID": {
             "description": "Enter Your Api Id",
-            "value": "22308019",
+            "value": "22188044",
             "required": true
         },
         "API_HASH": {
             "description": "Enter Your Api Hash",
-            "value": "fe49bff9eaadccecb58ded07aff33e88",
+            "value": "099e3a1dce52b7677299c3ab8ab3b6ca",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Enter Your Telegram Bot Token",
-            "value": "7131670643:AAEuQKLZjZ9MTgAC-lPE_XD1o5sfrx6JjYI",
+            "value": "8012817348:AAFDNju9Djdphcm5aLbGbxKSjTZgh5ZL1zE",
             "required": true
         },
         "BOT_NAME": {
             "description": "Enter Your Telegram Bot Name",
-            "value": "Acin2",
+            "value": "Ain2",
             "required": true
         },
         "MONGO_URI": {
